@@ -6,4 +6,4 @@ Some assumptions:
   * The enumerators emit values which are Comparable[1] with each other.
   * The enumerators can be finite *or* infinite.
   
-Test suit can be run with: ruby ./test/combined_enum_test.rb
+Test suit can be run with: `ruby ./test/combined_enum_test.rb`
